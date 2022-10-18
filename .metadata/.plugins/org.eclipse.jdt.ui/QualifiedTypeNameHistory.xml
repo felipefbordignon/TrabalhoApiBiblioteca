@@ -8,4 +8,11 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIdentityInfo"/>
     <fullyQualifiedTypeName name="br.com.residencia.biblioteca.dto.EditoraDTO"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.dto.AlunoDTO"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.entity.Editora"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.entity.Livro"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.repository.LivroRepository"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.dto.LivroDTO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
